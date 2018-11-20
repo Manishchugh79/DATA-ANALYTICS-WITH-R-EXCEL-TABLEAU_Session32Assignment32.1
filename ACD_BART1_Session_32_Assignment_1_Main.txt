@@ -1,0 +1,72 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SESSION 32: TABLEAU DESKTOP
+
+
+
+Assignment 1
+
+
+Table of Contents
+1. Introduction	3
+2. Objective	3
+3. Prerequisites	3
+4. Associated Data Files	3
+5. Problem Statement	3
+6. Expected Output	3
+7. Approximate Time to Complete Task	3
+
+
+1. Introduction
+This assignment will help you understand the concepts learnt in the session.
+
+2. Objective
+To understand the concepts in Tableau.
+
+3. Prerequisites
+Not applicable.
+
+4. Associated Data Files
+N/A
+
+5. Problem Statement
+1. Import the Super store excel data into MySQL and store the data across three tables orders, people and returns
+2. Connect Tableau Desktop to MySQL database
+3. Import the joined data set of the aforesaid three tables through custom SQL
+4. Rename the data connection as 'my super store data'
+5. Create an extract out of the data connection
+6. Save the workbook as Super store dashboard.twbx
+
+
+6. Expected Output
+N/A
+
+7. Approximate Time to Complete Task
+
+
+
+
